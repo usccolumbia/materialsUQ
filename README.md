@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # MatDeepLearn
@@ -193,3 +194,7 @@ Code is maintained by:
 
 [Daniel Varivoda](https://www.linkedin.com/in/danvar/), varivoda.d@northeastern.edu
 
+=======
+# materialsUQ
+Uncertainty Quantification for Materials Property Prediction: a Benchmark Study
+>>>>>>> b133ab8c9c6afb63b197770466b9b8cadf8fbb90

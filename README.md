@@ -180,12 +180,12 @@ python main.py --data_path=data/test_data --run_mode=Analysis --model_path=XXX
 
 ## License
 
-Distributed under the MIT License. 
+Distributed under the University of South Carolina License. 
 
 
 ## Acknowledgements
 
-Contributors: Daniel Varivoda, Dr. Jianjun Hu
+Contributors: Daniel Varivoda, Dr. Jianjun Hu, Victor Fung
 
 ## Contact
 

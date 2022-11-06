@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-
-# MatDeepLearn
+# MatDeepLearn Uncertainty Quantification
 
 ## Original non-UQ Platform code credit to Fung et al.: https://github.com/vxfung/MatDeepLearn
 ## We updated this platform and utilized the code to extend its use as a standard UQ metric creation and evaluation platform 

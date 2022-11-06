@@ -1,9 +1,9 @@
 # MatDeepLearn Uncertainty Quantification
 
-# This code was utilized in [Uncertainty Quantification for Materials Property Prediction: a Benchmark Study](http://mleg.cse.sc.edu/) to benchmark multiple different UQ methods. These methods (Evidential, Bootstrap Ensemble, Inductive Confromal, and Delta Metric) are all made available for the use of the greater materials informatics community.
-
 ## Original non-UQ Platform code credit to Fung et al.: https://github.com/vxfung/MatDeepLearn
 ## We updated this platform and utilized the code to extend its use as a standard UQ metric creation and evaluation platform 
+
+### This code was utilized in [Uncertainty Quantification for Materials Property Prediction: a Benchmark Study](http://mleg.cse.sc.edu/) to benchmark multiple different UQ methods. These methods (Evidential, Bootstrap Ensemble, Inductive Confromal, and Delta Metric) are all made available for the use of the greater materials informatics community.
 
 MatDeepLearn is a platform for testing and using graph neural networks (GNNs) and other machine learning (ML) models for materials chemistry applications. MatDeepLearn takes in data in the form of atomic structures and their target properties, processes the data into graphs, trains the ML model of choice (optionally with hyperparameter optimization), and provides predictions on unseen data. It allows for different GNNs to be benchmarked on diverse datasets drawn from materials repositories as well as conventional training/prediction tasks. This package makes use of the [Pytorch-Geometric](https://github.com/rusty1s/pytorch_geometric) library, which provides powerful tools for GNN development and many prebuilt models readily available for use.
 

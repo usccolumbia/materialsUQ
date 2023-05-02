@@ -177,6 +177,13 @@ python main.py --data_path=data/test_data --run_mode=Analysis --model_path=XXX
 ## FAQ
 
 
+## TODO List
+
+- incorporating the UQ method from paper "2023 Post-hoc Uncertainty Learning using a Dirichlet Meta-Model"
+- incorporating the UQ method from paper '2023 Semantic uncertainty intervals for disentangled latent spaces"
+
+
+
 ## License
 
 Distributed under the University of South Carolina License. 

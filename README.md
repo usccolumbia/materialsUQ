@@ -1,6 +1,6 @@
 # MatDeepLearn Uncertainty Quantification
 
-### This code was utilized in [Uncertainty Quantification for Materials Property Prediction: a Benchmark Study](http://mleg.cse.sc.edu/) to benchmark multiple different UQ methods. These methods (Evidential, Bootstrap Ensemble, Inductive Confromal, and Delta Metric) are all made available for the use of the greater materials informatics community.
+### This code was utilized in [Uncertainty Quantification for Materials Property Prediction: a Benchmark Study](https://arxiv.org/abs/2211.02235) to benchmark multiple different UQ methods for materials property prediction. These UQ methods (Evidential, Bootstrap Ensemble, Inductive Confromal, and Delta Metric) are all made available for the use of the greater materials informatics community.
 
 Original non-UQ Platform code credit to Fung et al.: https://github.com/vxfung/MatDeepLearn. We updated this platform and utilized the code to extend its use as a standard UQ metric creation and evaluation platform 
 

@@ -6,8 +6,6 @@ Original non-UQ Platform code credit to Fung et al.: https://github.com/vxfung/M
 
 MatDeepLearn is a platform for testing and using graph neural networks (GNNs) and other machine learning (ML) models for materials chemistry applications. MatDeepLearn takes in data in the form of atomic structures and their target properties, processes the data into graphs, trains the ML model of choice (optionally with hyperparameter optimization), and provides predictions on unseen data. It allows for different GNNs and GNN UQ methods to be benchmarked on diverse datasets drawn from materials repositories as well as conventional training/prediction tasks. This package makes use of the [Pytorch-Geometric](https://github.com/rusty1s/pytorch_geometric) library, which provides powerful tools for GNN development and many prebuilt models readily available for use.
 
-MatDeepLearn is currently under active development with more features to be added soon. Please <a href="#roadmap">contact</a> the developer(s) for bug fixes and feature requests.
-
 ## Table of contents
 <ol>
 	<li><a href="#installation">Installation</a></li>

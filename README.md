@@ -7,8 +7,8 @@ Cite our paper:
 @article{varivoda2022materials,
   title={Materials Property Prediction with Uncertainty Quantification: A Benchmark Study},
   author={Varivoda, Daniel and Dong, Rongzhi and Omee, Sadman Sadeed and Hu, Jianjun},
-  journal={arXiv preprint arXiv:2211.02235},
-  year={2022}
+  journal={Applied Physics Reviews 10, 021409},
+  year={2023}
 }
 
 This work was done at the [Machine Learning and Evolution Laboratory](http://mleg.cse.sc.edu), 

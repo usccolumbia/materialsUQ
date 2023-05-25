@@ -2,12 +2,14 @@
 
 ### This code was utilized in [Uncertainty Quantification for Materials Property Prediction: a Benchmark Study](https://arxiv.org/abs/2211.02235) to benchmark multiple different UQ methods for materials property prediction. These UQ methods (Evidential, Bootstrap Ensemble, Inductive Confromal, and Delta Metric) are all made available for the use of the greater materials informatics community.
 
-Cite our paper:
+Cite our paper on [Applied Physics Review](https://pubs.aip.org/aip/apr/article/10/2/021409/2892540/Materials-property-prediction-with-uncertainty):
 ```
 @article{varivoda2022materials,
   title={Materials Property Prediction with Uncertainty Quantification: A Benchmark Study},
   author={Varivoda, Daniel and Dong, Rongzhi and Omee, Sadman Sadeed and Hu, Jianjun},
-  journal={Applied Physics Reviews 10, 021409},
+  journal={Applied Physics Reviews},
+  volume={10},
+  pages={021409},
   year={2023}
 }
 

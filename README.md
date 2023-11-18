@@ -197,7 +197,7 @@ python main.py --data_path=data/test_data --run_mode=Analysis --model_path=XXX
 - incorporating the UQ method from paper "2023 Post-hoc Uncertainty Learning using a Dirichlet Meta-Model"
 - incorporating the UQ method from paper '2023 Semantic uncertainty intervals for disentangled latent spaces"
 - Anastasios et, Michael I. Jordan, Tijana Zrnic. Prediction-powered inference. Science, 2023; 382 (6671): 669 DOI: 10.1126/science.adi6000
-
+- Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression
 
 ## License
 

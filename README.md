@@ -140,6 +140,7 @@ A quick break down of these extra arguments and some important notifications of 
 	-\[Bootstrap Ensemble\] boot_samples - This is the # of bootstrapped samples/models that will be utilized to create the ensemble.
 	- \[Evidential Method\] The model argument here must be MEGNet_EV_demo as it is the only model with an Evidential output layer. The loss function in the Training arguments 			configuration must be also be set to 'Evidential'. If you would like to use another model with the evidential method, please look at how the output layer is changed for the 				Evidential MegNet model and apply the same technique. The evidential model also has a variable 'coeff', which is utilized to weigh the evidential function and can be adjusted 			to  tune results similar to our UQ study.
 	-\[Inductive Conformal Method\] error_model_path: Similar to our model_path, the IC model must also include a secondary path for the model used to predict initial model errors.
+	-\[Deep Evidential Regression](https://arxiv.org/abs/1910.02600)
 
 
 	
